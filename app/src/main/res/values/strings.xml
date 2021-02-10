@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Movie Catalog</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="content_tab_movie">Movies</string>
+    <string name="content_tab_tvshow">Tv Show</string>
+    <string name="label_movie_title">Movie Title</string>
+    <string name="label_tvshow_title">TV Show Title</string>
+
+    <string name="label_movie_category_value">Category : %s</string>
+    <string name="label_movie_synopsis">Synopsis :</string>
+
+    <string name="label_tvshow_category_value">Category : %s</string>
+    <string name="label_tvshow_synopsis">Synopsis :</string>
+
+
+</resources>
