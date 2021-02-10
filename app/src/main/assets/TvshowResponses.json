@@ -1,0 +1,74 @@
+{
+	"tvshows": [
+	{
+		"id": "T01",
+        "title": "The Promised Neverland (2019)",
+        "category": "Animation, Mystery, Sci-Fi & Fantasy, Action & Adventure, Drama",
+        "synopsis": "Surrounded by a forest and a gated entrance, the Grace Field House is inhabited by orphans happily living together as one big family, looked after by their \"Mama,\" Isabella. Although they are required to take tests daily, the children are free to spend their time as they see fit, usually playing outside, as long as they do not venture too far from the orphanage — a rule they are expected to follow no matter what. However, all good times must come to an end, as every few months, a child is adopted and sent to live with their new family... never to be heard from again.",
+        "imageposter": "https://www.themoviedb.org/t/p/original/yxdeII5tI8qqiERcMxjW9DfB6Gz.jpg"
+	},
+	{
+		"id": "T02",
+		"title": "Banana Fish (2018)",
+        "category": "Action & Adventure, Drama, Mystery, Animation",
+        "synopsis": "Nature made Ash Lynx beautiful; nurture made him a cold ruthless killer. A runaway brought up as the adopted heir and sex toy of \"Papa\" Dino Golzine, Ash, now at the rebellious age of seventeen, forsakes the kingdom held out by the devil who raised him. But the hideous secret that drove Ash's older brother mad in Vietnam has suddenly fallen into Papa's insatiably ambitious hands—and it's exactly the wrong time for Eiji Okamura, a pure-hearted young photographer from Japan, to make Ash Lynx's acquaintance",
+        "imageposter": "https://www.themoviedb.org/t/p/original/1UV5di9UIXwrpCW3xQ4RNli5hEV.jpg"
+	},
+		{
+		"id": "T03",
+        "title": "The Wilds (2020)",
+        "category": "Mystery, Drama",
+        "synopsis": "A group of teen girls from different backgrounds must fight for survival after a plane crash strands them on a deserted island. The castaways both clash and bond as they learn more about each other, the secrets they keep, and the traumas they've all endured. But there’s just one twist… these girls did not end up on this island by accident.",
+        "imageposter": "https://www.themoviedb.org/t/p/original/gHBtyMdHbWoM3tpM8VZymer8HfF.jpg"
+	},
+		{
+        "id": "T04",
+        "title": "Your Lie in April (2014)",
+        "category": "Animation, Comedy, Drama",
+        "synopsis": "Kousei Arima was a genius pianist until his mother's sudden death took away his ability to play. Each day was dull for Kousei. But, then he meets a violinist named Kaori Miyazono who has an eccentric playing style. Can the heartfelt sounds of the girl's violin lead the boy to play the piano again?",
+        "imageposter": "https://www.themoviedb.org/t/p/original/nksFLYTydth9OYVpMuMbtOBkvMO.jpg"
+	},
+		{
+		"id": "T05",
+        "title": "Weightlifting Fairy Kim Bok-Joo (2016)",
+        "category": "Comedy, Drama",
+        "synopsis": "A spunky female weightlifter and free-spirited male swimmer meet on campus, only to find out their pasts may be intertwined.",
+        "imageposter": "https://www.themoviedb.org/t/p/original/4CrTjZ5MYdF5dtSockIStCkiX5C.jpg"
+	},
+		{
+		"id": "T06",
+        "title": "Hotel Del Luna (2019)",
+        "category": "Sci-Fi & Fantasy, Drama, Comedy\n",
+        "synopsis": "The Hotel Del Luna, located in Seoul, is not like any other hotel: its client are all ghosts. Jang Man-Wol, stuck in the hotel for the past millennium, meets Koo Chan-Sung, the new manager.",
+        "imageposter": "https://www.themoviedb.org/t/p/original/8bizZsXoAsOTbhyFKfBogC8mgG2.jpg"
+	},
+		{
+		"id": "T07",
+        "title": "The Umbrella Academy (2019)",
+        "category": "Action & Adventure, Sci-Fi & Fantasy, Drama",
+        "synopsis": "A dysfunctional family of superheroes comes together to solve the mystery of their father's death, the threat of the apocalypse and more.",
+        "imageposter": "https://www.themoviedb.org/t/p/original/scZlQQYnDVlnpxFTxaIv2g0BWnL.jpg"
+	},
+		{
+		"id": "T08",
+        "title": "My Little Monster (2012)",
+        "category": "Animation, Comedy, Drama\n",
+        "synopsis": "Mizutani Shizuku finds peace in her studies.  Working hard to stay at the top of the class, alone but focused.  When she is tasked with delivering class materials to Yoshida Haru, her world starts to rapidly expand.  With some new friends and feelings, will she be able to stay focused on her studies?",
+        "imageposter": "https://www.themoviedb.org/t/p/original/qmGAYDNuENa94kGV56Oe0Kwm3dX.jpg"
+	},
+		{
+		"id": "T09",
+        "title": "Tower of God (2020)",
+        "category": "Animation, Drama, Mystery, Action & Adventure, Sci-Fi & Fantasy",
+        "synopsis": "There is a tower that summons chosen people called \"Regulars\" with the promise of granting their deepest desires. Whether it be wealth, fame, authority, or something that surpasses them all—everything awaits those who reach the top.",
+        "imageposter": "https://www.themoviedb.org/t/p/original/fUs9KMgEJj3wYJGa75MtPSdyJXk.jpg"
+	},
+		{
+		"id": "T10",
+        "title": "Domestic Girlfriend (2019)",
+        "category": "Drama, Animation",
+        "synopsis": "Natsuo is a high school boy who is experiencing the crushing despair of unrequited love. To make matters worse, the person he is in love with is his teacher, Hina. In an attempt to lift his spirits, he attends a mixer where he meets a girl named Rui. The two sleep together, expecting never to see one another again, but fate has other plans. His life suddenly becomes more complicated when his father comes home and announces he has remarried a woman with two daughters whom Natsuo has met before: Hina and Rui!",
+        "imageposter": "https://www.themoviedb.org/t/p/original/d6yGpIrk2RghwIEuyDr1KMYEDyE.jpg"
+	}
+	]
+}

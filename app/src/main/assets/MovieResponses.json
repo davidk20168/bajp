@@ -1,0 +1,75 @@
+{
+	"movies": [
+	{
+		"id": "M01",
+        "title": "Skylines (2020)",
+        "category": "Science Fiction, Action",
+        "synopsis": "When a virus threatens to turn the now earth-dwelling friendly alien hybrids against humans, Captain Rose Corley must lead a team of elite mercenaries on a mission to the alien world in order to save what's left of humanity.",
+        "imageposter": "https://www.themoviedb.org/t/p/original/2W4ZvACURDyhiNnSIaFPHfNbny3.jpg"
+	},
+	{
+		"id": "M02",
+        "title": "Wonder Woman 1984 (2020)",
+        "category": "Fantasy, Action, Adventure",
+        "synopsis": "Wonder Woman comes into conflict with the Soviet Union during the Cold War in the 1980s and finds a formidable foe by the name of the Cheetah.",
+        "imageposter": "https://www.themoviedb.org/t/p/original/8UlWHLMpgZm9bx6QYh0NFoq67TZ.jpg"
+	},
+		{
+		"id": "M03",
+        "title": "Batman: Soul of the Dragon (2021)",
+        "category": "Animation, Action, Adventure, Crime, Fantasy",
+        "synopsis": "Bruce Wayne faces a deadly menace from his past, with the help of three former classmates: world-renowned martial artists Richard Dragon, Ben Turner and Lady Shiva.",
+        "imageposter": "https://www.themoviedb.org/t/p/original/jzhbZZWHMOxVF9uz8lNilDEx8dl.jpg"
+	},
+		{
+        "id": "M04",
+        "title": "Jumanji: The Next Level (2019)",
+        "category": "Adventure, Comedy, Fantasy",
+        "synopsis": "As the gang return to Jumanji to rescue one of their own, they discover that nothing is as they expect. The players will have to brave parts unknown and unexplored in order to escape the world’s most dangerous game.",
+        "imageposter": "https://www.themoviedb.org/t/p/original/jyw8VKYEiM1UDzPB7NsisUgBeJ8.jpg"
+	},
+		{
+		"id": "M05",
+        "title": "Mulan (2020)",
+        "category": "Adventure, Fantasy",
+        "synopsis": "When the Emperor of China issues a decree that one man per family must serve in the Imperial Chinese Army to defend the country from Huns, Hua Mulan, the eldest daughter of an honored warrior, steps in to take the place of her ailing father. She is spirited, determined and quick on her feet. Disguised as a man by the name of Hua Jun, she is tested every step of the way and must harness her innermost strength and embrace her true potential.",
+        "imageposter": "https://www.themoviedb.org/t/p/original/aKx1ARwG55zZ0GpRvU2WrGrCG9o.jpg"
+	},
+		{
+		"id": "M06",
+        "title": "Monsters of Man (2020)",
+        "category": "Science Fiction",
+        "synopsis": "A robotics company vying to win a lucrative military contract team up with a corrupt CIA agent to conduct an illegal live field test. They deploy four weaponized prototype robots into a suspected drug manufacturing camp in the Golden Triangle, assuming they'd be killing drug runners that no one would miss. Six doctors on a humanitarian mission witness the brutal slaughter and become prime targets.",
+        "imageposter": "https://www.themoviedb.org/t/p/original/1f3qspv64L5FXrRy0MF8X92ieuw.jpg"
+	},
+		{
+		"id": "M07",
+		"title": "Peninsula (2020)",
+        "category": "Action, Horror, Thriller",
+        "synopsis": "A soldier and his team battle hordes of post-apocalyptic zombies in the wastelands of the Korean Peninsula.",
+        "imageposter": "https://www.themoviedb.org/t/p/original/sy6DvAu72kjoseZEjocnm2ZZ09i.jpg"
+
+	},
+		{
+		"id": "M08",
+        "title": "Avengers: Infinity War (2018)",
+        "category": "Adventure, Action, Science Fiction",
+        "synopsis": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
+        "imageposter": "https://www.themoviedb.org/t/p/original/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg"
+	},
+		{
+		"id": "M09",
+        "title": "Curious George: Go West, Go Wild (2020)",
+        "category": "Animation, Family",
+        "synopsis": "While farm-sitting, George accidentally lets the farm animals escape. Ted, George and wannabe cowboy Emmett must round 'em up, accounting for every animal -- and emerging with some new skills, to boot.",
+        "imageposter": "https://www.themoviedb.org/t/p/original/7WWOiP8F6PHjXpJrnRZfvO2XNW.jpg"
+	},
+		{
+		"id": "M10",
+        "title": "Spider-Man: Far from Home (2019)",
+        "category": "Action, Adventure, Science Fiction",
+        "synopsis": "Peter Parker and his friends go on a summer trip to Europe. However, they will hardly be able to rest - Peter will have to agree to help Nick Fury uncover the mystery of creatures that cause natural disasters and destruction throughout the continent.",
+        "imageposter": "https://www.themoviedb.org/t/p/original/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg"
+	}
+	]
+}
